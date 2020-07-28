@@ -176,7 +176,10 @@ ul {
 
 /*スマホ用*/
 @media (max-width:600px){
-   
+    body {
+        font-family: "筑紫B丸ゴシック レギュラー";
+    }
+    
     /*フッター*/
     footer {
         width: 980px;

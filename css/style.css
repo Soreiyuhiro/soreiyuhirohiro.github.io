@@ -173,3 +173,33 @@ ul {
     text-align: center;
     font-size: 30px;
 }
+
+/*スマホ用*/
+@media (max-width:600px){
+   
+    /*フッター*/
+    footer {
+        width: 980px;
+    }
+
+    #home {
+        width: 980px;
+    }
+
+    .grid {
+        width: 980px;
+    }
+
+    h4 {
+        width: 980px;
+    }
+
+    .works-button {
+        width: 980px;
+    }
+
+    .profile{
+        width: 980px;
+    }
+
+}
